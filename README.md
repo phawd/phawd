@@ -48,6 +48,10 @@ When I'm not working with computers and hardware, I enjoy:
 - **X (Twitter)**: [@ph0d](https://twitter.com/ph0d)
 - *For professional inquiries, please reach out through X*
 
+## 📝 README Feedback
+
+If you notice outdated information or want to suggest an update, you can [create a new issue for `README.md`](https://github.com/phawd/phawd/issues/new?title=README%20feedback&body=What%20would%20you%20like%20to%20change%20in%20README.md%3F%0A%0A-%20Section%3A%20%0A-%20Suggested%20update%3A%20%0A-%20Reason%3A%20).
+
 ---
 
 ```
